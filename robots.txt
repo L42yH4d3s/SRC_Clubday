@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /SRCSecret
+Disallow: This is your secret path: /SRCSecret
