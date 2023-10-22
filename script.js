@@ -7,5 +7,5 @@ hint1Button.addEventListener('click', () => {
 });
 
 hint2Button.addEventListener('click', () => {
-    hintText.textContent = " There is a text file used by websites to communicate with web crawlers or "robots.";
+    hintText.textContent = "There is a text file used by websites to communicate with web crawlers or robots";
 });
