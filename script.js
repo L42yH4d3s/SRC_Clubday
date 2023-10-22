@@ -3,9 +3,9 @@ const hint2Button = document.getElementById('hint2');
 const hintText = document.getElementById('hint-text');
 
 hint1Button.addEventListener('click', () => {
-    hintText.textContent = "Các tài nguyên web thường được lưu dưới dạng đường dẫn URL";
+    hintText.textContent = "Web resources are typically stored as URL links.";
 });
 
 hint2Button.addEventListener('click', () => {
-    hintText.textContent = "Có 1 đường dẫn URL lưu trữ các tài nguyên web bị giới hạn với cú pháp tên trang web + /robots.txt";
+    hintText.textContent = " There is a text file used by websites to communicate with web crawlers or "robots.";
 });
